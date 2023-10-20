@@ -5,7 +5,7 @@
 ## Hey there 👋
 
 - 🔭 I’m currently working as **Software Developer**
-- 🌱 I’m currently learning **AWS and Node.js**
+- 🌱 I’m currently learning about **AWS and Node.js**
 - ⚽ In my free time **I play football**
 
 ## Tech Stack 💻
